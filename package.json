@@ -1,0 +1,16 @@
+{
+  "name": "take-home-sandbx",
+  "version": "1.0.0",
+  "description": "Take home Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 60000"
+  },
+  "author": "Arlene Salgado",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^119.0.1",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.15.0"
+  }
+}
